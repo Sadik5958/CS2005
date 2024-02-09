@@ -1,1 +1,1 @@
-# iitm_bs_java
+Java Assignment for CS2005.
