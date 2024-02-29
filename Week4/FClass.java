@@ -15,7 +15,7 @@ class Sequence {
   // implement the parameterized constructor to initialize size
 	public Sequence(int capacity) {
 		iArr = new int[capacity];
-						size = 0;
+			size = 0;
 	}
 
   // implement addTo(elem) to add an int elem to the sequence
